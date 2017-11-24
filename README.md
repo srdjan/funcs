@@ -1,5 +1,4 @@
 ## List of resources related to functional programming
--------------------------------------------------------
 
 + Libraries
     + [f-utils](http://www.der-davi.de/futils/docs/index.html/)
