@@ -1,4 +1,4 @@
-# List of resources related to functional programming
+## List of resources related to functional programming
 -------------------------------------------------------
 
 + Libraries
