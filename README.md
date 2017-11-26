@@ -9,3 +9,4 @@
     + [folktale](https://github.com/origamitower/folktale/)
     + [fantasyland](https://github.com/fantasyland/fantasy-land/)
     + [crocks](https://github.com/evilsoft/crocks/)
+    + [union-type](https://github.com/paldepind/union-type/)
