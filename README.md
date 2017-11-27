@@ -1,7 +1,7 @@
 ## List of resources related to functional programming
 
 + Libraries
-    + [f-utils](http://www.der-davi.de/futils/docs/index.html/)
+    + [f-utils](https://github.com/urbandrone/futils)
     + [funfix](https://github.com/funfix/funfix/)
     + [fp-ts](https://github.com/gcanti/fp-ts/)
     + [monet](https://github.com/monet/monet.js/)
