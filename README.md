@@ -10,3 +10,4 @@
     + [fantasyland](https://github.com/fantasyland/fantasy-land/)
     + [crocks](https://github.com/evilsoft/crocks/)
     + [union-type](https://github.com/paldepind/union-type/)
+    + [focal](https://github.com/grammarly/focal/)
