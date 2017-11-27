@@ -11,3 +11,4 @@
     + [crocks](https://github.com/evilsoft/crocks/)
     + [union-type](https://github.com/paldepind/union-type/)
     + [focal](https://github.com/grammarly/focal/)
+    + [express-fp](https://github.com/OliverJAsh/express-fp/)
